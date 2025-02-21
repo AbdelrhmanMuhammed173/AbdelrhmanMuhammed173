@@ -1,5 +1,5 @@
 👋 Hi, I’m @AbdelrhmanMuhammed173
-👀 I’m interested in Machine Learning, Deep Learning, Backend Development, OS, Software Testing, Software Engineering, UML, and System Design.
+👀 I’m interested in Machine Learning, Deep Learning, Backend Development, OS, Software Engineering, UML, and System Design.
 🌱 I’m currently learning Machine Learning, Deep Learning, and Node.js.
 💞️ I’m looking to collaborate on AI and Backend projects.
 📫 How to reach me:sabdo6227@gmail.com
